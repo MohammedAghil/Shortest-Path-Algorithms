@@ -13,5 +13,5 @@ G D 2
 C F 10
 G E 12
 B A 7
-D F 3
+D F 4
 A
