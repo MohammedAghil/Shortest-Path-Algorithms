@@ -1,0 +1,17 @@
+8 15 D
+A B 30
+B F 20
+F D 50
+D C 20
+F C 20
+C H 30
+D G 30
+G A 30
+A D 90
+A G 100
+E G 40
+E B 60
+C F 60
+C D 20
+G E 13
+D

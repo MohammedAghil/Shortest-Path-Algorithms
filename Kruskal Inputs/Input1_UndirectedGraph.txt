@@ -1,0 +1,14 @@
+7 12 U
+A B 1
+A C 2
+B C 1
+B D 3
+B E 2
+C D 1
+C E 2
+D E 4
+D F 3
+E F 3
+F G 6
+E G 8
+A

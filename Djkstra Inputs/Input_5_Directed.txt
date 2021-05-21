@@ -1,0 +1,17 @@
+7 15 D
+S A 4
+A C 3
+S B 5
+A B 7
+A F 8
+C F 2
+B F 6
+F T 6
+F E 5
+E T 4
+T E 10
+T C 12
+F B 9
+B S 11
+C T 9
+S
